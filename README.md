@@ -18,7 +18,7 @@ Tracke deine Trainingsfortschritte und sieh, wie du Woche für Woche stärker wi
 **NowPlay – der Spotify Player für deinen Schreibtisch**
 Lass dir dein aktuelles Lied anzeigen und steuere dein Spotify direkt per Touch
 
-### 🎵 Aktuelles Projekt: cbryr.de
+### 👨‍🦱 Aktuelles Projekt: cbryr.de
 
 **cbryr.de –meine Website, mein Portfolio**
 Meine Website, wer bin ich? was mache ich?
