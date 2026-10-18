@@ -12,6 +12,12 @@ Tracke deine Trainingsfortschritte und sieh, wie du Woche für Woche stärker wi
 
 *Noch in Entwicklung, mehr dazu bald.*
 
+
+### 🎵 Aktuelles Projekt: NowPlay
+
+**NowPlay – der Spotify Player für deinen Schreibtisch**
+Lass dir dein aktuelles Lied anzeigen und steuere dein Spotify direkt per Touch
+
 ---
 
 ### 🛠️ Tech
